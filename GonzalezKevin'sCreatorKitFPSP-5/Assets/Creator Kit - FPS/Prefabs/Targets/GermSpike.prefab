@@ -226,8 +226,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21572170bf3eef94dba3f7ca0f06525a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 12
-  pointValue: 20
+  health: 30
+  pointValue: 80
   DestroyedEffect: {fileID: 0}
   HitPlayer: {fileID: 8622080918013085468}
   IdleSource: {fileID: 3179698771649535910}
